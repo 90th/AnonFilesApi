@@ -37,7 +37,7 @@ public class UploadResponse
 {
     public bool Status { get; set; }
     public UploadResponseData Data { get; set; }
-    public Error Error { get; set; } // Add this line to include the Error property
+    public Error Error { get; set; } 
 }
 
 public class UploadResponseData
@@ -74,7 +74,7 @@ public class FileInfoResponse
 {
     public bool Status { get; set; }
     public FileInfoResponseData Data { get; set; }
-    public Error Error { get; set; } // Add this line to include the Error property
+    public Error Error { get; set; } 
 }
 
 public class FileInfoResponseData
