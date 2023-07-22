@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonFilesAPI", "AnonFilesAPI.csproj", "{2A3F0ED1-5D3A-4716-A20E-0EC122A1C779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3F0ED1-5D3A-4716-A20E-0EC122A1C779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3F0ED1-5D3A-4716-A20E-0EC122A1C779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3F0ED1-5D3A-4716-A20E-0EC122A1C779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3F0ED1-5D3A-4716-A20E-0EC122A1C779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A4D066-A38A-4C2F-BB73-A4A98E6275A1}
+	EndGlobalSection
+EndGlobal
